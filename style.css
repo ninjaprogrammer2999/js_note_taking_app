@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #8c53ff;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+#container{
+    background-color: white;
+    width: 827px;
+    height: 600px;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0px 10px 15px 10px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    overflow-y: scroll;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+#list-header{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+
+
+
+
+
+
+
+
+
+
